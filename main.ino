@@ -4,10 +4,10 @@
 LiquidCrystal_I2C lcd(0x3F, 16, 2); // initializes the LCD
 
   // VAR //
-const int IN_D0 = 8; // digital input
-const int IN_D1 = 7;
-const int IN_D2 = 6;
-const int IN_D3 = 5;
+const int IN_D0 = 5; // digital input
+const int IN_D1 = 4;
+const int IN_D2 = 3;
+const int IN_D3 = 2;
 int n1 = 0;
 int n2 = 0;
 int n3 = 0;

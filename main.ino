@@ -57,7 +57,7 @@ void loop() {
   lcd.setCursor(11, 1);
   lcd.print("MN");
 
-  // MAYBE CREATE A FUCNTION?? //
+  // some code to detect coin //
   if (value_D0 == false) {
     n1 = n1 + 1;
     delay(100);
@@ -77,10 +77,11 @@ void loop() {
   
 
 
-    
+  // Add all coin up to display //
   sum = n1 + n2 + n3 + n4;
   mny = (n1 * 10) + (n2 * 5) + (n3 * 2) + (n4 * 1);
   
+  // Set the display //
   lcd.setCursor(3, 0);
   lcd.print(n1);
   lcd.setCursor(3, 1);

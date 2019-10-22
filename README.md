@@ -23,7 +23,12 @@ These are for sorting coin to specific hole for each coin.
 
 The device system is basically Arduino system inside of the base for detect coins and counting them so we can show amount of coins and value of coins on LCD 16x2.
 
-The circuit is basically look like this.
+Flowchart of this system.
+
+
+![Flowchart](https://user-images.githubusercontent.com/55591062/67315796-7f552580-f531-11e9-96ae-bbdba05d48b9.jpg)
+
+And the circuit is basically look like this.
 
 
 ![Untitled-3](https://user-images.githubusercontent.com/55591062/67314897-b591a580-f52f-11e9-8034-202fbb809033.png)

@@ -30,4 +30,4 @@ The circuit is basically look like this.
 
 [This is code for this circuit](main.ino)
 
-## To conclude this is basically all the thing about this project hope you enjoy.
+**To conclude this is basically all the thing about this project hope you enjoy.**
